@@ -1,9 +1,9 @@
-#Software developer
+# Software developer
 
-###Education:
+### Education:
   - Bashelor degree in computer science
 
-###Programming languages and skills:
+### Programming languages and skills:
   - Java , C programming, C++ , C#, PHP, Python, Javascript
     HTML5, CSS, AngularJS, Nodejs, JavaFx
   - .NET framework, JEE, Springboot, Flask, Symfony, React js
